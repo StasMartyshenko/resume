@@ -1,0 +1,224 @@
+body {
+	margin: 5px auto;
+	width: 600px;
+/*	font-size: 0;*/
+	
+}
+
+@font-face {
+	font-family: MyriadProRegular;
+	src: url(MyriadPro/MyriadProRegular.ttf)
+}	
+
+.name {
+	font-family: MyriadProRegular;
+	font-size: 0;
+/*	background-color: aqua;*/
+	margin: 0;
+	background-image: url(pict/14.png);
+	background-repeat: no-repeat;
+	background-position: right;
+	width: 93%;
+}
+
+.asif {
+	font-size: 28px;
+	font-weight: bolder;
+}
+
+.aleem {
+	font-size: 28px;
+	font-weight: lighter;
+}
+
+.about{
+	font-size: 12px;
+	color: #da430e;
+	font-weight: bolder;
+}
+
+.about1{
+	font-size: 10px;
+	font-weight: bolder;
+	color: #868686;
+}
+
+
+
+.personal {
+	font-family: MyriadProRegular;
+	font-size: 0;
+	font-size: 12px;
+	font-weight: bolder;
+	color: black;
+/*	background-color: burlywood;*/
+	margin-top: 5px;
+	height: 260px;
+	width: 33.3%;
+	float: left;	
+}
+
+.personal1 {
+	font-family: MyriadProRegular;
+	font-size: 0;
+	font-size: 10px;
+	color: #414141;
+	font-weight: normal;
+	width: 30%;
+	float: left;
+	margin-top: -10px;
+}
+
+.personal2 {
+	Font-family: MyriadProRegular;
+	font-size: 0;
+	font-size: 10px;
+	font-weight: normal;
+	color: #868686;
+	width: 70%;
+	float: left;
+	margin: 0;
+	padding: 0;
+		margin-top: -10px;
+}
+
+.awards {
+	Font-family: MyriadProRegular;
+	font-size: 10px;
+	font-weight: normal;
+	color: #868686;
+	margin-top: 5px;
+/*	background-color: chocolate;*/
+	height: 170px;
+	width: 33.3%;
+	float: left;
+}
+
+.awards1 {
+	font-family: MyriadProRegular;
+	font-size: 12px;
+	font-weight: bolder;
+	color: black;
+	
+}
+
+.awards2, .Portfolio2, .personal3 {
+	Font-family: MyriadProRegular;
+	font-size: 10px;
+	font-weight: normal;
+	color: #da430e;
+
+}
+
+.compitensies {
+	Font-family: MyriadProRegular;
+	font-size: 10px;
+	font-weight: normal;
+	color: #868686;
+	margin-top: 5px;
+/*	background-color: blue;*/
+	height: 170px;
+	width: 33.3%;
+	float: left;
+}
+
+.Competencies1 {
+	font-family: MyriadProRegular;
+	font-size: 12px;
+	font-weight: bolder;
+	color: black;
+}
+
+.Portfolio {
+	Font-family: MyriadProRegular;
+	font-size: 10px;
+	font-weight: normal;
+	color: #868686;
+/*	background-color: darkkhaki;*/
+	height: 120px;
+/*	clear: both;*/
+	width: 30%;
+	float: left;
+}
+
+.Portfolio1 {
+	Font-family: MyriadProRegular;
+	font-size: 10px;
+	font-weight: normal;
+	color: #339900;
+	
+}
+
+.Portfolio3, .Blogs3 {
+	Font-family: MyriadProRegular;
+	font-size: 12px;
+	font-weight: bolder;
+	color: black;
+}
+
+.expirience {
+/*	background-color: fuchsia;*/
+	height: 250px;
+	width: 66%;
+	float: right
+}
+
+.expirience1 {
+	margin-left: 30px;
+}
+
+
+.Blogs {
+/*	background-color: deeppink;*/
+	Font-family: MyriadProRegular;
+	font-size: 10px;
+	font-weight: normal;
+	color: #868686;
+	height: 90px;
+/*	clear: both;*/
+	width: 28%;
+	float: left;
+}
+
+.Education {
+/*	background-color: forestgreen;*/
+	height: 310px;
+	width: 66%;
+	float: right;
+}
+
+.Education1 {
+	margin-left: 12px;
+	margin-top: 12px;
+}
+
+.Misc {
+/*	background-color: chartreuse;*/
+	height: 130px;
+/*	clear: both;*/
+	width: 30%;
+	float: left;
+	Font-family: MyriadProRegular;
+	font-size: 10px;
+	font-weight: normal;
+	color: #868686;
+}
+
+.Misc1{
+	Font-family: MyriadProRegular;
+	font-size: 10px;
+	font-weight: normal;
+	color: black;
+}
+
+.References {
+/*	background-color: dodgerblue;*/
+	height: 100px;
+/*	clear: both;*/
+	width: 30%;
+	float: left;
+	Font-family: MyriadProRegular;
+	font-size: 10px;
+	font-weight: normal;
+	color: #868686;
+}
